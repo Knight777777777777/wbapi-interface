@@ -1,0 +1,8 @@
+server:
+  port: 8123
+  servlet:
+    context-path: /api
+wbapi:
+  client:
+    access-key: waterbird
+    secret-key: waterbird
